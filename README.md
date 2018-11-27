@@ -7,20 +7,6 @@
 
 # Updates
 
-#### 2018-8-16
-
-We are now officially announced a new project started: **StrangeAI School** - An artificial intelligence learning school and advanced algorithm exchange platform! What we believed in is: AI should made to change people's life, rather than controlled by Gaint Companies.
-Here you can get some previews about our projects: http://ai.loliloli.pro (strangeai.pro availiable soon)
-
-#### 2018-3-12
-
-**tensorflow_poems**来诈尸了，许久没有更新这个项目，不知不觉已经有了上千个star，感觉大家对这个还是很感兴趣，在这里我非常荣幸大家关注这个项目，但是我们不能因此而停止不前，这也是我来诈尸的目的。我会向大家展示一下我最新的进展，首先非常希望大家关注一下我倾心做的知乎专栏，人工智能从入门到逆天杀神以及每周一个黑科技，我们不仅仅要关注人工智能，还有区块链等前沿技术：
-
-- 人工智能从入门到逆天杀神(知乎专栏)： https://zhuanlan.zhihu.com/ai-man
-- 每周一项目黑科技-TrackTech(知乎专栏):  https://zhuanlan.zhihu.com/tracktech
-If you want talk about AI, visit our website (for now):  http://ai.loliloli.pro (strangeai.pro availiable soon)
- , **subscribe** our WeChat channel: 奇异人工智能学院
-
 #### 2017-11-8
 
 貌似距离上一次更新这个repo已经很久了，这段时间很多童鞋通过微信找到了我，甚至包括一些大佬。当时这个项目只是一个练手的东西，那个时候我的手法还不是非常老道。让各位踩坑了。现在**李白**强势归来。在这次的更新中增加了这些改进：
@@ -31,10 +17,7 @@ If you want talk about AI, visit our website (for now):  http://ai.loliloli.pro 
 
 #### 2017-6-1 ~~可能是最后一次更新~~
 
-我决定有时间的时候重构这个项目了，古诗，源自在下骨子里的文艺之风，最近搞得东西有点乱，所以召集大家，对这个项目感兴趣的欢迎加入扣扣群：
-```
- 292889553
-```
+我决定有时间的时候重构这个项目了，古诗，源自在下骨子里的文艺之风，最近搞得东西有点乱
 
 
 #### 2017-3-22 重磅更新，推出藏头诗功能
@@ -102,8 +85,7 @@ When you kick it off, you will see something like this:
 
 怎么说，目前由于缺乏训练文本，导致我们的AI做的歌词有点....额，还好啦，有那么一点忧郁之风，这个周杰伦完全不是一种风格呀。
 然而没有关系，目前它训练的文本还太少，只有112首歌，在这里我来呼吁大家一起来整理 **中国歌手的语料文本！！！**
-如果你喜欢周杰伦的歌，可以把他的歌一首一行，每首歌句子空格分开保存到txt中，大家可以集中发到我的邮箱：
-[jinfagang19@163.com](http://mail.163.com/)
+
 相信如果不断的加入训练文本我们的歌词创作机器人会越来越牛逼！当然我会及时把数据集更新到github上，大家可以star一下跟进本项目的更新。
 
 # 阅遍了近4万首唐诗
@@ -129,7 +111,7 @@ When you kick it off, you will see something like this:
 
 # Copyright
 
-This repo implement by Jin Fagang. Using this under Apache License.
+This repo implement by Li Wesley. Using this under Apache License.
 
 ```
 # Licensed under the Apache License, Version 2.0 (the "License");
